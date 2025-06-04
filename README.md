@@ -6,7 +6,7 @@
 	</a>
 </p>
 <h3 align="center">I am an undergraduate student of IIT affiliated to Westminster University / IT Enthusiast</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshannuwangahirimuthugoda&label=Profile%20views&color=0e75b6&style=flat" alt="dilshannuwangahirimuthugoda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SinethHK&label=Profile%20views&color=0e75b6&style=flat" alt="SinethHK" /> </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="85" alt="giphy">
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Full stack Web Development , Java**
 
-- 📫 How to reach me **dilshannuwangahirimuthugoda@gmail.com**
+- 📫 How to reach me **sinethhk1@gmail.com**
 
 
 
@@ -37,9 +37,9 @@
 
   <br>
   
-| ![Dilshan's github stats](https://github-readme-stats.vercel.app/api?username=DilshanNuwangaHirimuthugoda&show_icons=true&theme=tokyonight) | ![Dilshan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DilshanNuwangaHirimuthugoda&theme=tokyonight) |
+| ![Sineth's github stats](https://github-readme-stats.vercel.app/api?username=SinethHK&show_icons=true&theme=tokyonight) | ![Sineth GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SinethHK&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanNuwangaHirimuthugoda&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=DilshanNuwangaHirimuthugoda&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinethHK&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SinethHK&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 <br>
