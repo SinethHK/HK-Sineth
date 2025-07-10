@@ -16,9 +16,9 @@
 
 - 🔭 I am currently studying at **IIT affiliated to Westminster University**
 
-- 🌱 I’m currently learning **Full stack Web Development , Java**
+- 🌱 I’m currently learning **Full stack Web Development, QA & DB Management enthusiast**
 
-- 📫 How to reach me **sinethhk1@gmail.com**
+- 📫 How to reach me **sinethhk1@gmail.com /www.linkedin.com/in/sineth-hk-74797732b**
 
 
 
